@@ -1,1 +1,1 @@
-Welcome to my GitHub playground
+Welcome to my GitHub.
