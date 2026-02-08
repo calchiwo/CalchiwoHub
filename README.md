@@ -1,1 +1,1 @@
-Welcome to my GitHub.
+Welcome to my CLI tool

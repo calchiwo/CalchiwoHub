@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "calchiwo"
+version = "0.1.0"
+description = "A CLI tool by Caleb calchiwo Wodi"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "Caleb Wodi", email = "calebwodi33@gmail.com"}
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/calchiwo/CalchiwoHub"
